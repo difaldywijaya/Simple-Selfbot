@@ -1,13 +1,13 @@
 {
-  "name": "sedative_selfbot",
+  "name": "CEPOETZYBOTZ",
   "version": "2.0.0",
-  "description": "Create By Rafly A.",
+  "description": "Create By DIVALDYWIJAYA.",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Rafly A.",
-  "license": "Apache-2.0",
+  "author": "DIFALDYWIJAYA.",
+  "license": "Sehat selalu",
   "dependencies": {
     "@adiwajshing/baileys": "github:WhiskeySockets/Baileys#master",
     "@adiwajshing/keyed-db": "^0.2.4",
